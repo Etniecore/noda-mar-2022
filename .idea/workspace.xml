@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85dfcea2-3f0c-4864-beee-d03ef442c5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/regex.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/statusCode.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/tokenType.enum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/car.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/user.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataBase/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataBase/Car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataBase/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/apiError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/errorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/auth.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/car.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/common.middlewares.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/user.middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/noda-mar-2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/auth.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/car.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/user.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/auth.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/car.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/password.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/token.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/user.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validators/common.validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validators/user.validator.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2D7PaJ0OqLlOqYqGQkEyfkMY2rl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.15.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.47&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\noda-mar-2022\boys" />
+      <recent name="C:\Users\Admin\IdeaProjects\noda-mar-2022\girls" />
+      <recent name="C:\Users\Admin\IdeaProjects\noda-mar-2022" />
+      <recent name="C:\Users\Admin\IdeaProjects\noda-mar-2022\folder\boys" />
+      <recent name="C:\Users\Admin\IdeaProjects\noda-mar-2022\folder\girls" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85dfcea2-3f0c-4864-beee-d03ef442c5f0" name="Changes" comment="" />
+      <created>1660047211987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660047211987</updated>
+      <workItem from="1660047213245" duration="2438000" />
+      <workItem from="1660378250131" duration="3062000" />
+      <workItem from="1660498797950" duration="10000" />
+      <workItem from="1660578765651" duration="550000" />
+      <workItem from="1660672242803" duration="3895000" />
+      <workItem from="1660923137546" duration="8000" />
+      <workItem from="1661000971894" duration="10234000" />
+      <workItem from="1661028819669" duration="21000" />
+      <workItem from="1661030722261" duration="2032000" />
+      <workItem from="1661093209646" duration="4794000" />
+      <workItem from="1661702518409" duration="7462000" />
+      <workItem from="1661781425481" duration="5076000" />
+      <workItem from="1662051609832" duration="3000" />
+      <workItem from="1662128928272" duration="4722000" />
+      <workItem from="1662314982018" duration="1154000" />
+      <workItem from="1662562393134" duration="3471000" />
+      <workItem from="1662565900857" duration="3333000" />
+      <workItem from="1662645959761" duration="4933000" />
+      <workItem from="1662655368578" duration="18000" />
+      <workItem from="1662724101219" duration="32000" />
+      <workItem from="1662729875408" duration="2065000" />
+      <workItem from="1662734742228" duration="23000" />
+      <workItem from="1662743605410" duration="5929000" />
+      <workItem from="1662818118728" duration="7413000" />
+      <workItem from="1663349924965" duration="65000" />
+      <workItem from="1663853174940" duration="13388000" />
+      <workItem from="1663871728530" duration="1836000" />
+      <workItem from="1663883625237" duration="2463000" />
+      <workItem from="1663941839929" duration="6147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
